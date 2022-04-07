@@ -1,6 +1,6 @@
 ¡Vamos a terminar esta lección con todo! :muscle:
 
-Para eso vamos a hacer las siguientes funciones:
+Para eso vamos a definir las siguientes funciones:
 
 * `meses`, la cual dada una lista con registros devuelve una lista de meses :calendar:;
 * `afortunados`, que filtra aquellos registros que tuvieron una ganancia mayor a $1000 :dollar:;
