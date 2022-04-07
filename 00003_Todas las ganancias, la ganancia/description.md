@@ -42,4 +42,4 @@ function gananciaTotal3(balancesDeUnPeriodo) {
 }
 ```
 
-> ¿Empezás a ver un patrón? Tratá de escribir `gananciaTotal4` que funcione para 4 elementos.
+> ¿Descubriste patrón? Tratá de escribir `gananciaTotal4` que funcione para 4 elementos.
