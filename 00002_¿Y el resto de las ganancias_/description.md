@@ -8,7 +8,7 @@ La función `gananciaSemestre` anterior tiene dos problemas :frowning::
 
 Lo que nos gustaría es poder sumar las ganancias de todos los balances de una lista, sin importar cuántos haya realmente; queremos una función `gananciaTotal`, que pueda sumar balances de cualquier período de meses: semestres, cuatrimestres, trimestres, etc. ¡Qué difícil!
 
-> ¡Relajá! Ya tenemos nuestra versión; probala con las siguientes consultas:
+> ¡Relajá! Ya tenemos nuestra versión; probala con las siguientes consultas en orden:
 > 
 >```javascript
 ム gananciaTotal([{ mes: "enero", ganancia: 2 }, { mes: "febrero", ganancia: 3 }])
